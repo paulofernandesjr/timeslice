@@ -22,7 +22,7 @@ timeslice rh -h 01:00 -d 10/10/2010 -p 1 -c 'comment'
 
 -p: cost center [project] id number
 
--c: comment [need to use singles quotes and the limit is 95 characters] 
+-c: comment (need to use singles quotes and the limit is 95 characters) [optional] 
 
 
  
