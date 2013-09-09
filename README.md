@@ -10,7 +10,7 @@ Timeslice API Integration using NodeJS
 
 ## Usage
 
-### get all costs centers [projects]
+### get all costs centers
 timeslice gp
 
 ### reporting hours
