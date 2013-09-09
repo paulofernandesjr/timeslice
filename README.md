@@ -17,8 +17,12 @@ timeslice gp
 timeslice rh -h 01:00 -d 10/10/2010 -p 1 -c 'comment'
 
 -h: hour in HH:MI format
+
 -d: date in DD/MM/YYYY format
+
 -p: cost center [project] id number
+
 -c: comment [need to use singles quotes and the limit is 95 characters] 
+
 
  
