@@ -1,6 +1,6 @@
 {
   "name": "timeslice-node",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "integracao timeslice",
   "main": "./lib/main",
   "bin": {
