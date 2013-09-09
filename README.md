@@ -6,7 +6,7 @@ Timeslice API Integration using NodeJS
 ## Setup
 1. Access your dashboard on timeslice website 
 2. Generate/copy the key.
-3. Save that key on a file called .timeslice-key
+3. Save that key on a file called .timeslice-key in your home directory ( Ex: /home/paulo/.timeslice-key )
 
 ## Usage
 
