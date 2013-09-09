@@ -1,15 +1,14 @@
 {
   "name": "timeslice-node",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "integracao timeslice",
   "main": "./lib/main",
   "bin": {
       "timeslice": "bin/timeslice.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+    "test": ""
   },
-  "repository": "",
   "keywords": [
     "Timeslice",
     "Timesheet"
@@ -28,7 +27,7 @@
       "url": "https://github.com/paulofernandesjr/timeslice/issues"
   },
   "engines": {
-      "node": ">=0.8"
+      "node": ">=0.10"
   },
   "license": "BSD",
   "readmeFilename": "README.md"
